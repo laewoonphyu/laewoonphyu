@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @laewoonphyu
 - 👀 I’m interested in games, sitcoms, and tech.
-- 🌱 I’m currently attending University of the People and about to go to Alice Japanese Langauge school (Yokohama) in 2024. 
+- 🌱 I’m a Computer Science Freshman student. 
 - 💞️ I’m just here to learn more coding and find a community to keep me motivated
   
 

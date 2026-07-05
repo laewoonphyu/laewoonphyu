@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @laewoonphyu
 - 👀 I’m interested in games, sitcoms, and tech.
 - 🌱 I’m a Computer Science Freshman student. 
-- 💞️ I’m just here to learn more coding and find a community to keep me motivated
+- 💞️ I’m just here to learn and find a community to keep me motivated
   
 
 <!---

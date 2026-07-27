@@ -4,7 +4,6 @@
 
 <div style="text-align:center;">
    - 👋 Hi, I’m @laewoonphyu
-</div>
    - 👀 I’m interested in games, sitcoms, and tech.
    - 🌱 I’m a Computer Science Freshman student. 
    - 💞️ I’m just here to learn and find a community to keep me motivated

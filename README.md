@@ -9,8 +9,9 @@
     💞️ I’m just here to learn and find a community to keep me motivated. <br>
     
 </p>
+
  <div align="center">
-  <img src="https://herokuapp.com+🎵" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Currently+Listening" alt="Typing SVG" />
 </div>
 
 <p align="center">

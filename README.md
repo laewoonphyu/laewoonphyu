@@ -7,7 +7,7 @@
    - 🌱 I’m a Computer Science Freshman student. 
    - 💞️ I’m just here to learn and find a community to keep me motivated
   
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
 <!---
 laewoonphyu/laewoonphyu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

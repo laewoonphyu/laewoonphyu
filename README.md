@@ -9,6 +9,11 @@
     💞️ I’m just here to learn and find a community to keep me motivated. <br>
     
 </p>
+## 🎵 Currently Listening
+
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify" />
+</div>
 <!---
 laewoonphyu/laewoonphyu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

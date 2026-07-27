@@ -5,7 +5,7 @@
 <p align="center">
     👋 Hi, I’m Woon. You can also call me April <br>
     👀 I’m interested in games, comics, sitcoms, and tech. <br>
-    🌱 I’m a Computer Science Freshman student. <br>
+    🌱 I’m a Computer Science Freshman student at Temple Uni Japan. <br>
     💞️ I’m just here to learn and find a community to keep me motivated. <br>
     
 </p>

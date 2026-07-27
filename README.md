@@ -9,11 +9,12 @@
     💞️ I’m just here to learn and find a community to keep me motivated. <br>
     
 </p>
-## 🎵 Currently Listening
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify" />
-</div>
+🎵 Currently Listening
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31xlbe7uz62ywvfmgkseu3et4rj4&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xlbe7uz62ywvfmgkseu3et4rj4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=f4f6f4&bar_color_cover=false">
+  </a>
+</p>
 <!---
 laewoonphyu/laewoonphyu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
